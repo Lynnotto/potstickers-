@@ -1,0 +1,71 @@
+**Kai Lynn Wong**   
+ wongkailynn@gmail.com • \+447825432254 
+
+**Education**  
+**UNIVERSITY 	OF DUNDEE**						                                          Dundee, UK  
+Master’s by Research, Life Science  					                           Jan. 2024 \- May 2025                       
+
+Supervisor: Dr Mattie C. Pawlowic    
+Project: Developing a Cre & DiCre gene knockout system to investigate essential *Cryptosporidium* genes   
+10 month lab-based, with published thesis and viva presentation.  				  
+			  
+		  
+**UNIVERSITY 	OF DUNDEE**						                                          Dundee, UK  
+Bachelor’s Degree, Molecular Biology    					             Sept. 2021 \- Jun. 2023
+
+Honours Year Project: Purification of ISWI from *Xenopus laevis* Egg Extract and Characterisation of its Role in DNA Replication Licensing  
+Direct entry into Level 3 (Year 3\) 
+
+**TAYLOR’S UNIVERSITY** 				   	 	                      Kuala Lumpur, Malaysia  
+Bachelor’s Degree, Biomedical Science  			                                        Apr. 2020 \- May 2021  
+Transferred to University of Dundee after completing Year 1 
+
+	      
+
+**Research Experience**
+
+**Master’s by Research Project**                                                                                                              Dundee, UK  
+Supervisor: Dr Mattie C. Pawlowic 					                                    Jan. \- Dec. 2024
+
+* **“Developing a Cre & DiCre gene knockout system to investigate essential *Cryptosporidium* genes”**   
+* Generating Cre and DiCre strains that contain Firefly luciferase reporter to investigate parasite biology of transmission and identifying drug targets. Contributes to two manuscripts that are currently in preparation.   
+* Molecular biology: cloning, PCR, transformation, sequencing, plasmid design   
+* Gene editing: CRISPR, designing guide RNA, generating transgenic *Cryptosporidium* strains, coordinating in vivo experiments   
+* Parasitology: Oocyst purification, confirmation of transgenic strains, NanoLuciferase assays, animal handling, microscopy   
+* Attended interlab meetings, divisional and parasitology seminars. Joined weekly journal clubs.   
+* Poster presentation during SPPIRIT conference in the University of the West of Scotland.
+
+**Honours Year Project**   								                Dundee, UK  
+Supervisor: Professor Julian J. Blow    							        Sept. \- Dec. 2022
+
+* **“Purification of ISWI from *Xenopus laevis* Egg Extract and Characterisation of its Role in DNA Replication Licensing”**   
+* Protein purification using standard chromatography means   
+* Poster presentation during Honours Symposium and short viva presentation. 
+
+**Summer Studentship**            			                				                Dundee, UK  
+Supervisor: Professor Julian J. Blow    						                       Jul. \- Aug. 2022
+
+* **“Identifying a role for ISWI during DNA replication licensing: purification of ISWI complexes from *Xenopus laevis* egg extract”**  
+* Funded by Lister Institute.   
+* Protein purification using immunoaffinity, with varying pH and use of cross-linkers    
+* Poster presentation during Lister Annual Fellow Meeting at the University of Oxford and annual Summer Studentship Symposium in the University of Dundee.  
+
+**Undergraduate Module Project**                                                                                                             
+Microbiology Module			                                                         	                        Jan. \- Feb. 2022
+
+* Project: Effects of Transposon Mutagenesis Insertions on *Bascillus subtilis*   
+* Observing the physiological changes eg. biofilm formation, sporulation efficiency & mobility caused by transposon mutagenesis in *B. subtilis.* 
+
+**Undergraduate Module Project**    
+Bioinformatics Module                                                                                                                    Mar. \- Apr. 2022
+
+*  Project: Molecular Ecology and Conservation of Different Mammalian Species in Scotland   
+* Using bioinformatic tools, I designed a PCR/digest experiment that allows identification of mammalian species from mitochondrial DNA.   
+* Learned basic command lines, basic Python3 and using Jalview software. 
+
+**Skills & Interests**
+
+**Software:** Jalview, Python3, Prism, Snapgene   
+**Language:** Mandarin, Malay   
+**Laboratory:** CRISPR, gene editing, gene cloning, PCR, molecular parasitology, molecular cloning, immunoblot, protein purification (immunoaffinity, column chromatography), gel electrophoresis, bacterial cell culture, animal handling   
+**Hobbies:** Coding, powerlifting, cooking 
