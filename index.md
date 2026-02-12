@@ -1,4 +1,4 @@
-![snoopy](drink more water.png)
+![snoopy](/workspaces/potstickers-/drink more water.png)
 **Kai Lynn Wong**   
  wongkailynn@gmail.com • \+447825432254 
 
